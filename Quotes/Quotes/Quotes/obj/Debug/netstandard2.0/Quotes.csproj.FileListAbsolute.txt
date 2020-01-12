@@ -1,0 +1,14 @@
+C:\Users\brode\Desktop\Xamarin_Projects\Quotes\Quotes\Quotes\bin\Debug\netstandard2.0\Quotes.deps.json
+C:\Users\brode\Desktop\Xamarin_Projects\Quotes\Quotes\Quotes\bin\Debug\netstandard2.0\Quotes.dll
+C:\Users\brode\Desktop\Xamarin_Projects\Quotes\Quotes\Quotes\bin\Debug\netstandard2.0\ref\Quotes.dll
+C:\Users\brode\Desktop\Xamarin_Projects\Quotes\Quotes\Quotes\bin\Debug\netstandard2.0\Quotes.pdb
+C:\Users\brode\Desktop\Xamarin_Projects\Quotes\Quotes\Quotes\obj\Debug\netstandard2.0\Quotes.csprojAssemblyReference.cache
+C:\Users\brode\Desktop\Xamarin_Projects\Quotes\Quotes\Quotes\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\brode\Desktop\Xamarin_Projects\Quotes\Quotes\Quotes\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\brode\Desktop\Xamarin_Projects\Quotes\Quotes\Quotes\obj\Debug\netstandard2.0\QuotesPage.xaml.g.cs
+C:\Users\brode\Desktop\Xamarin_Projects\Quotes\Quotes\Quotes\obj\Debug\netstandard2.0\Quotes.AssemblyInfoInputs.cache
+C:\Users\brode\Desktop\Xamarin_Projects\Quotes\Quotes\Quotes\obj\Debug\netstandard2.0\Quotes.AssemblyInfo.cs
+C:\Users\brode\Desktop\Xamarin_Projects\Quotes\Quotes\Quotes\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\brode\Desktop\Xamarin_Projects\Quotes\Quotes\Quotes\obj\Debug\netstandard2.0\Quotes.dll
+C:\Users\brode\Desktop\Xamarin_Projects\Quotes\Quotes\Quotes\obj\Debug\netstandard2.0\ref\Quotes.dll
+C:\Users\brode\Desktop\Xamarin_Projects\Quotes\Quotes\Quotes\obj\Debug\netstandard2.0\Quotes.pdb
