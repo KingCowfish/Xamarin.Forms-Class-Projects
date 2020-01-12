@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\brode\\Desktop\\Xamarin_Projects\\Quotes\\Quotes\\Quotes.Android\\Quotes.Android.csproj": {}
+    "C:\\Repos\\Xamarin.Forms-Class-Projects\\Quotes\\Quotes\\Quotes.Android\\Quotes.Android.csproj": {}
   },
   "projects": {
-    "C:\\Users\\brode\\Desktop\\Xamarin_Projects\\Quotes\\Quotes\\Quotes.Android\\Quotes.Android.csproj": {
+    "C:\\Repos\\Xamarin.Forms-Class-Projects\\Quotes\\Quotes\\Quotes.Android\\Quotes.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\brode\\Desktop\\Xamarin_Projects\\Quotes\\Quotes\\Quotes.Android\\Quotes.Android.csproj",
+        "projectUniqueName": "C:\\Repos\\Xamarin.Forms-Class-Projects\\Quotes\\Quotes\\Quotes.Android\\Quotes.Android.csproj",
         "projectName": "Quotes.Android",
-        "projectPath": "C:\\Users\\brode\\Desktop\\Xamarin_Projects\\Quotes\\Quotes\\Quotes.Android\\Quotes.Android.csproj",
+        "projectPath": "C:\\Repos\\Xamarin.Forms-Class-Projects\\Quotes\\Quotes\\Quotes.Android\\Quotes.Android.csproj",
         "packagesPath": "C:\\Users\\brode\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\brode\\Desktop\\Xamarin_Projects\\Quotes\\Quotes\\Quotes.Android\\obj\\",
+        "outputPath": "C:\\Repos\\Xamarin.Forms-Class-Projects\\Quotes\\Quotes\\Quotes.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "monoandroid90": {
             "projectReferences": {
-              "C:\\Users\\brode\\Desktop\\Xamarin_Projects\\Quotes\\Quotes\\Quotes\\Quotes.csproj": {
-                "projectPath": "C:\\Users\\brode\\Desktop\\Xamarin_Projects\\Quotes\\Quotes\\Quotes\\Quotes.csproj"
+              "C:\\Repos\\Xamarin.Forms-Class-Projects\\Quotes\\Quotes\\Quotes\\Quotes.csproj": {
+                "projectPath": "C:\\Repos\\Xamarin.Forms-Class-Projects\\Quotes\\Quotes\\Quotes\\Quotes.csproj"
               }
             }
           }
@@ -54,14 +54,14 @@
         }
       }
     },
-    "C:\\Users\\brode\\Desktop\\Xamarin_Projects\\Quotes\\Quotes\\Quotes\\Quotes.csproj": {
+    "C:\\Repos\\Xamarin.Forms-Class-Projects\\Quotes\\Quotes\\Quotes\\Quotes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\brode\\Desktop\\Xamarin_Projects\\Quotes\\Quotes\\Quotes\\Quotes.csproj",
+        "projectUniqueName": "C:\\Repos\\Xamarin.Forms-Class-Projects\\Quotes\\Quotes\\Quotes\\Quotes.csproj",
         "projectName": "Quotes",
-        "projectPath": "C:\\Users\\brode\\Desktop\\Xamarin_Projects\\Quotes\\Quotes\\Quotes\\Quotes.csproj",
+        "projectPath": "C:\\Repos\\Xamarin.Forms-Class-Projects\\Quotes\\Quotes\\Quotes\\Quotes.csproj",
         "packagesPath": "C:\\Users\\brode\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\brode\\Desktop\\Xamarin_Projects\\Quotes\\Quotes\\Quotes\\obj\\",
+        "outputPath": "C:\\Repos\\Xamarin.Forms-Class-Projects\\Quotes\\Quotes\\Quotes\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
