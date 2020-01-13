@@ -1,0 +1,15 @@
+C:\Repos\Xamarin.Forms-Class-Projects\GridExercise\GridExercise\GridExercise\bin\Debug\netstandard2.0\GridExercise.deps.json
+C:\Repos\Xamarin.Forms-Class-Projects\GridExercise\GridExercise\GridExercise\bin\Debug\netstandard2.0\GridExercise.dll
+C:\Repos\Xamarin.Forms-Class-Projects\GridExercise\GridExercise\GridExercise\bin\Debug\netstandard2.0\ref\GridExercise.dll
+C:\Repos\Xamarin.Forms-Class-Projects\GridExercise\GridExercise\GridExercise\bin\Debug\netstandard2.0\GridExercise.pdb
+C:\Repos\Xamarin.Forms-Class-Projects\GridExercise\GridExercise\GridExercise\obj\Debug\netstandard2.0\GridExercise.csprojAssemblyReference.cache
+C:\Repos\Xamarin.Forms-Class-Projects\GridExercise\GridExercise\GridExercise\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Repos\Xamarin.Forms-Class-Projects\GridExercise\GridExercise\GridExercise\obj\Debug\netstandard2.0\Exercise1.xaml.g.cs
+C:\Repos\Xamarin.Forms-Class-Projects\GridExercise\GridExercise\GridExercise\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Repos\Xamarin.Forms-Class-Projects\GridExercise\GridExercise\GridExercise\obj\Debug\netstandard2.0\GridExercise.AssemblyInfoInputs.cache
+C:\Repos\Xamarin.Forms-Class-Projects\GridExercise\GridExercise\GridExercise\obj\Debug\netstandard2.0\GridExercise.AssemblyInfo.cs
+C:\Repos\Xamarin.Forms-Class-Projects\GridExercise\GridExercise\GridExercise\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Repos\Xamarin.Forms-Class-Projects\GridExercise\GridExercise\GridExercise\obj\Debug\netstandard2.0\GridExercise.dll
+C:\Repos\Xamarin.Forms-Class-Projects\GridExercise\GridExercise\GridExercise\obj\Debug\netstandard2.0\ref\GridExercise.dll
+C:\Repos\Xamarin.Forms-Class-Projects\GridExercise\GridExercise\GridExercise\obj\Debug\netstandard2.0\GridExercise.pdb
+C:\Repos\Xamarin.Forms-Class-Projects\GridExercise\GridExercise\GridExercise\obj\Debug\netstandard2.0\Exercise2.xaml.g.cs
