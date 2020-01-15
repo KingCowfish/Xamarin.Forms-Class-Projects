@@ -1,0 +1,14 @@
+C:\Repos\Xamarin.Forms-Class-Projects\RelExercise\RelExercise\RelExercise\bin\Debug\netstandard2.0\RelExercise.deps.json
+C:\Repos\Xamarin.Forms-Class-Projects\RelExercise\RelExercise\RelExercise\bin\Debug\netstandard2.0\RelExercise.dll
+C:\Repos\Xamarin.Forms-Class-Projects\RelExercise\RelExercise\RelExercise\bin\Debug\netstandard2.0\ref\RelExercise.dll
+C:\Repos\Xamarin.Forms-Class-Projects\RelExercise\RelExercise\RelExercise\bin\Debug\netstandard2.0\RelExercise.pdb
+C:\Repos\Xamarin.Forms-Class-Projects\RelExercise\RelExercise\RelExercise\obj\Debug\netstandard2.0\RelExercise.csprojAssemblyReference.cache
+C:\Repos\Xamarin.Forms-Class-Projects\RelExercise\RelExercise\RelExercise\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Repos\Xamarin.Forms-Class-Projects\RelExercise\RelExercise\RelExercise\obj\Debug\netstandard2.0\Exercise1.xaml.g.cs
+C:\Repos\Xamarin.Forms-Class-Projects\RelExercise\RelExercise\RelExercise\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Repos\Xamarin.Forms-Class-Projects\RelExercise\RelExercise\RelExercise\obj\Debug\netstandard2.0\RelExercise.AssemblyInfoInputs.cache
+C:\Repos\Xamarin.Forms-Class-Projects\RelExercise\RelExercise\RelExercise\obj\Debug\netstandard2.0\RelExercise.AssemblyInfo.cs
+C:\Repos\Xamarin.Forms-Class-Projects\RelExercise\RelExercise\RelExercise\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Repos\Xamarin.Forms-Class-Projects\RelExercise\RelExercise\RelExercise\obj\Debug\netstandard2.0\RelExercise.dll
+C:\Repos\Xamarin.Forms-Class-Projects\RelExercise\RelExercise\RelExercise\obj\Debug\netstandard2.0\ref\RelExercise.dll
+C:\Repos\Xamarin.Forms-Class-Projects\RelExercise\RelExercise\RelExercise\obj\Debug\netstandard2.0\RelExercise.pdb
