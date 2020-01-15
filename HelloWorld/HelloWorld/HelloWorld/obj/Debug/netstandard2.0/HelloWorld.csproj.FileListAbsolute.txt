@@ -43,3 +43,4 @@ C:\Repos\Xamarin.Forms-Class-Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug
 C:\Repos\Xamarin.Forms-Class-Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\HelloWorld.dll
 C:\Repos\Xamarin.Forms-Class-Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\ref\HelloWorld.dll
 C:\Repos\Xamarin.Forms-Class-Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\HelloWorld.pdb
+C:\Repos\Xamarin.Forms-Class-Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\AbsolutePage.xaml.g.cs
