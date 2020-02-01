@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="StackExercise.Exercise2">
+    <ContentPage.Padding>
+        <OnPlatform x:TypeArguments="Thickness">
+            <On Platform="iOS">0,20,0,0</On>
+        </OnPlatform>
+    </ContentPage.Padding>
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="nyc_photographer" />
+            <Image Source="https://farm2.static.flickr.com/1703/26614183856_815cb1e670_b.jpg" />
+            <StackLayout Orientation="Horizontal"
+                         Padding="6,6,6,20">
+                <Label Text="Like"
+                       TextColor="#1dabf0"/>
+                <Label Text="Comment"
+                       TextColor="#1dabf0"/>
+                <Label Text="Share"
+                       TextColor="#1dabf0"/>
+            </StackLayout>
+            <BoxView Color="#f0f0f0"
+                     HeightRequest="1"/>
+            <Label Text="700"/>
+            <Label Text="This is a shot yesterday in Skanor, Sweden, when driving home from a coupole of days of work in Denmark" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
