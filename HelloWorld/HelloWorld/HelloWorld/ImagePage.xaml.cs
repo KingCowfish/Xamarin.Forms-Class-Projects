@@ -16,7 +16,9 @@ namespace HelloWorld
         {
             InitializeComponent();
 
-            image.Source = ImageSource.FromResource("HelloWorld.Images.background.jpg");
+            //Embedded Images
+
+            //image.Source = ImageSource.FromResource("HelloWorld.Images.background.jpg");
 
             //Downloaded Images:
 
@@ -24,7 +26,7 @@ namespace HelloWorld
             //imageSource.CachingEnabled = false;
             //image.Source = imageSource;
 
-            //Embedded Images
+
 
 
         }

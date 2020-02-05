@@ -5,6 +5,7 @@ public class MonoPackageManager_Resources {
 		"HelloWorld.Android.dll",
 		"FormsViewGroup.dll",
 		"HelloWorld.dll",
+		"ImageCircle.Forms.Plugin.dll",
 		"Xamarin.Android.Arch.Core.Common.dll",
 		"Xamarin.Android.Arch.Core.Runtime.dll",
 		"Xamarin.Android.Arch.Lifecycle.Common.dll",

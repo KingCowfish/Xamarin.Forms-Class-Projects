@@ -39,9 +39,11 @@ C:\Repos\Xamarin.Forms-Class-Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug
 C:\Repos\Xamarin.Forms-Class-Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\StackPage.xaml.g.cs
 C:\Repos\Xamarin.Forms-Class-Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\HelloWorld.AssemblyInfoInputs.cache
 C:\Repos\Xamarin.Forms-Class-Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\HelloWorld.AssemblyInfo.cs
-C:\Repos\Xamarin.Forms-Class-Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\XamlC.stamp
 C:\Repos\Xamarin.Forms-Class-Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\HelloWorld.dll
 C:\Repos\Xamarin.Forms-Class-Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\ref\HelloWorld.dll
 C:\Repos\Xamarin.Forms-Class-Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\HelloWorld.pdb
 C:\Repos\Xamarin.Forms-Class-Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\AbsolutePage.xaml.g.cs
 C:\Repos\Xamarin.Forms-Class-Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\RelativePage.xaml.g.cs
+C:\Repos\Xamarin.Forms-Class-Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\ImagePage.xaml.g.cs
+C:\Repos\Xamarin.Forms-Class-Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\ImageCircle.xaml.g.cs
+C:\Repos\Xamarin.Forms-Class-Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\XamlC.stamp

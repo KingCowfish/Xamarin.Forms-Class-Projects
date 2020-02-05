@@ -8,11 +8,17 @@
              xmlns:local="clr-namespace:HelloWorld.MarkupExtensions"
              x:Class="HelloWorld.ImagePage">
 
-
+    <Button  x:Name="btn">
+        <Button.ImageSource>
+            <OnPlatform x:TypeArguments="FileImageSource"
+                 iOS="clock.png"
+                 Android="clock.png"/>
+        </Button.ImageSource>
+    </Button>
 
     <!--Embedded Images-->
 
-    <Image Source="{local:EmbeddedImage ResourceId=HelloWolrd.Images.background.jpg}" x:Name="image" Aspect="AspectFill"/>
+    <!--<Image Source="{local:EmbeddedImage ResourceId=HelloWolrd.Images.background.jpg}" x:Name="image" Aspect="AspectFill"/>-->
 
     <!--Downloaded Images
     

@@ -132,4 +132,13 @@
       <Name>HelloWorld</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\._clock.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\._clock%402x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\._clock%403x.png" />
+  </ItemGroup>
 </Project>

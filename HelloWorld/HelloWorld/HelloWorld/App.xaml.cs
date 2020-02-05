@@ -9,7 +9,7 @@ namespace HelloWorld
         public App()
         {
             InitializeComponent();
-            MainPage = new RelativePage();
+            MainPage = new ImageCircle();
         }
 
         protected override void OnStart()
