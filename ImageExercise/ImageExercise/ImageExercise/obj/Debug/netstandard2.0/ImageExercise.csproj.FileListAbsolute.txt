@@ -1,0 +1,13 @@
+C:\Repos\Xamarin.Forms-Class-Projects\ImageExercise\ImageExercise\ImageExercise\bin\Debug\netstandard2.0\ImageExercise.deps.json
+C:\Repos\Xamarin.Forms-Class-Projects\ImageExercise\ImageExercise\ImageExercise\bin\Debug\netstandard2.0\ImageExercise.dll
+C:\Repos\Xamarin.Forms-Class-Projects\ImageExercise\ImageExercise\ImageExercise\bin\Debug\netstandard2.0\ref\ImageExercise.dll
+C:\Repos\Xamarin.Forms-Class-Projects\ImageExercise\ImageExercise\ImageExercise\bin\Debug\netstandard2.0\ImageExercise.pdb
+C:\Repos\Xamarin.Forms-Class-Projects\ImageExercise\ImageExercise\ImageExercise\obj\Debug\netstandard2.0\ImageExercise.csprojAssemblyReference.cache
+C:\Repos\Xamarin.Forms-Class-Projects\ImageExercise\ImageExercise\ImageExercise\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Repos\Xamarin.Forms-Class-Projects\ImageExercise\ImageExercise\ImageExercise\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Repos\Xamarin.Forms-Class-Projects\ImageExercise\ImageExercise\ImageExercise\obj\Debug\netstandard2.0\ImageExercise.AssemblyInfoInputs.cache
+C:\Repos\Xamarin.Forms-Class-Projects\ImageExercise\ImageExercise\ImageExercise\obj\Debug\netstandard2.0\ImageExercise.AssemblyInfo.cs
+C:\Repos\Xamarin.Forms-Class-Projects\ImageExercise\ImageExercise\ImageExercise\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Repos\Xamarin.Forms-Class-Projects\ImageExercise\ImageExercise\ImageExercise\obj\Debug\netstandard2.0\ImageExercise.dll
+C:\Repos\Xamarin.Forms-Class-Projects\ImageExercise\ImageExercise\ImageExercise\obj\Debug\netstandard2.0\ref\ImageExercise.dll
+C:\Repos\Xamarin.Forms-Class-Projects\ImageExercise\ImageExercise\ImageExercise\obj\Debug\netstandard2.0\ImageExercise.pdb
