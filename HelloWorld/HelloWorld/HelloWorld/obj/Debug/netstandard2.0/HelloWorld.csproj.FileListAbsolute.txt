@@ -47,3 +47,5 @@ C:\Repos\Xamarin.Forms-Class-Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug
 C:\Repos\Xamarin.Forms-Class-Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\ImagePage.xaml.g.cs
 C:\Repos\Xamarin.Forms-Class-Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\ImageCircle.xaml.g.cs
 C:\Repos\Xamarin.Forms-Class-Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Repos\Xamarin.Forms-Class-Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\ListPage.xaml.g.cs
+C:\Repos\Xamarin.Forms-Class-Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\ContextAct.xaml.g.cs
