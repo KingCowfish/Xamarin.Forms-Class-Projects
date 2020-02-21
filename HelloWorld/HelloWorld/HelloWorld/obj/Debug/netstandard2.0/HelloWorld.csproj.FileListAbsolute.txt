@@ -49,3 +49,12 @@ C:\Repos\Xamarin.Forms-Class-Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug
 C:\Repos\Xamarin.Forms-Class-Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\XamlC.stamp
 C:\Repos\Xamarin.Forms-Class-Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\ListPage.xaml.g.cs
 C:\Repos\Xamarin.Forms-Class-Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\ContextAct.xaml.g.cs
+C:\Repos\Xamarin.Forms-Class-Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\IntroductionPage.xaml.g.cs
+C:\Repos\Xamarin.Forms-Class-Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\WelcomePage.xaml.g.cs
+C:\Repos\Xamarin.Forms-Class-Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\ContactsDetails.xaml.g.cs
+C:\Repos\Xamarin.Forms-Class-Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\ContactsPage.xaml.g.cs
+C:\Repos\Xamarin.Forms-Class-Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\Tabbing.xaml.g.cs
+C:\Repos\Xamarin.Forms-Class-Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\Tabbing2.xaml.g.cs
+C:\Repos\Xamarin.Forms-Class-Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\Carouseling.xaml.g.cs
+C:\Repos\Xamarin.Forms-Class-Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\AlertPage.xaml.g.cs
+C:\Repos\Xamarin.Forms-Class-Projects\HelloWorld\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\ToolBar.xaml.g.cs

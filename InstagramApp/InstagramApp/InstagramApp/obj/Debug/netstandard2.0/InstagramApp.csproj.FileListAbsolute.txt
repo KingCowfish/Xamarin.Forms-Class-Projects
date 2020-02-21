@@ -1,0 +1,11 @@
+C:\Repos\Xamarin.Forms-Class-Projects\InstagramApp\InstagramApp\InstagramApp\obj\Debug\netstandard2.0\InstagramApp.csprojAssemblyReference.cache
+C:\Repos\Xamarin.Forms-Class-Projects\InstagramApp\InstagramApp\InstagramApp\obj\Debug\netstandard2.0\ActivityFeedPage.xaml.g.cs
+C:\Repos\Xamarin.Forms-Class-Projects\InstagramApp\InstagramApp\InstagramApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Repos\Xamarin.Forms-Class-Projects\InstagramApp\InstagramApp\InstagramApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Repos\Xamarin.Forms-Class-Projects\InstagramApp\InstagramApp\InstagramApp\obj\Debug\netstandard2.0\MyProfilePage.xaml.g.cs
+C:\Repos\Xamarin.Forms-Class-Projects\InstagramApp\InstagramApp\InstagramApp\obj\Debug\netstandard2.0\UserProfilePage.xaml.g.cs
+C:\Repos\Xamarin.Forms-Class-Projects\InstagramApp\InstagramApp\InstagramApp\obj\Debug\netstandard2.0\InstagramApp.AssemblyInfoInputs.cache
+C:\Repos\Xamarin.Forms-Class-Projects\InstagramApp\InstagramApp\InstagramApp\obj\Debug\netstandard2.0\InstagramApp.AssemblyInfo.cs
+C:\Repos\Xamarin.Forms-Class-Projects\InstagramApp\InstagramApp\InstagramApp\obj\Debug\netstandard2.0\InstagramApp.dll
+C:\Repos\Xamarin.Forms-Class-Projects\InstagramApp\InstagramApp\InstagramApp\obj\Debug\netstandard2.0\ref\InstagramApp.dll
+C:\Repos\Xamarin.Forms-Class-Projects\InstagramApp\InstagramApp\InstagramApp\obj\Debug\netstandard2.0\InstagramApp.pdb

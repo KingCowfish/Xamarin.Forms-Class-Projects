@@ -1435,3 +1435,4 @@ C:\Repos\Xamarin.Forms-Class-Projects\HelloWorld\HelloWorld\HelloWorld.Android\o
 C:\Repos\Xamarin.Forms-Class-Projects\HelloWorld\HelloWorld\HelloWorld.Android\obj\Debug\90\flata\6BC97F98E9ACCC8B.flata
 C:\Repos\Xamarin.Forms-Class-Projects\HelloWorld\HelloWorld\HelloWorld.Android\obj\Debug\90\android\assets\ImageCircle.Forms.Plugin.dll
 C:\Repos\Xamarin.Forms-Class-Projects\HelloWorld\HelloWorld\HelloWorld.Android\obj\Debug\90\android\src\crc6436929b8ad3b40f6f\ImageCircleRenderer.java
+C:\Repos\Xamarin.Forms-Class-Projects\HelloWorld\HelloWorld\HelloWorld.Android\obj\Debug\90\res\drawable\plus.png

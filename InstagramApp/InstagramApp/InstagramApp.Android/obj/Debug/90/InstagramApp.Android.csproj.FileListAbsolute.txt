@@ -1,0 +1,5 @@
+C:\Repos\Xamarin.Forms-Class-Projects\InstagramApp\InstagramApp\InstagramApp.Android\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+C:\Repos\Xamarin.Forms-Class-Projects\InstagramApp\InstagramApp\InstagramApp.Android\obj\Debug\90\build.props
+C:\Repos\Xamarin.Forms-Class-Projects\InstagramApp\InstagramApp\InstagramApp.Android\obj\Debug\90\adb.props
+C:\Repos\Xamarin.Forms-Class-Projects\InstagramApp\InstagramApp\InstagramApp.Android\obj\Debug\90\InstagramApp.Android.csprojAssemblyReference.cache
+C:\Repos\Xamarin.Forms-Class-Projects\InstagramApp\InstagramApp\InstagramApp.Android\obj\Debug\90\_VerifyXamarinAndroidSupportVersions.stamp

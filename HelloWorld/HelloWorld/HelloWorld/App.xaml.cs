@@ -9,7 +9,8 @@ namespace HelloWorld
         public App()
         {
             InitializeComponent();
-            MainPage = new ContextAct();
+            MainPage = new NavigationPage(new ToolBar());
+
         }
 
         protected override void OnStart()
