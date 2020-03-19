@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage Padding="40"
+             xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="HelloWorldp2.EntryPage">
+    <!--<StackLayout>
+        <Entry Keyboard="Numeric" Placeholder="Phone" />
+        <Entry IsPassword="True" TextChanged="Entry_TextChanged"  />
+        Completed="Entry_Completed"
+        <Label x:Name="label" />
+    </StackLayout>-->
+    <Editor BackgroundColor="Yellow"/> <!--VerticalOptions="FillAndExpand"-->
+</ContentPage>
