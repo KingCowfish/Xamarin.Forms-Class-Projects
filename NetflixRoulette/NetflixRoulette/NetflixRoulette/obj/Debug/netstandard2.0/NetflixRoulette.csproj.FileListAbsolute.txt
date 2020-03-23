@@ -1,0 +1,15 @@
+C:\Repos\Xamarin.Forms-Class-Projects\NetflixRoulette\NetflixRoulette\NetflixRoulette\bin\Debug\netstandard2.0\NetflixRoulette.deps.json
+C:\Repos\Xamarin.Forms-Class-Projects\NetflixRoulette\NetflixRoulette\NetflixRoulette\bin\Debug\netstandard2.0\NetflixRoulette.dll
+C:\Repos\Xamarin.Forms-Class-Projects\NetflixRoulette\NetflixRoulette\NetflixRoulette\obj\Debug\netstandard2.0\NetflixRoulette.csprojAssemblyReference.cache
+C:\Repos\Xamarin.Forms-Class-Projects\NetflixRoulette\NetflixRoulette\NetflixRoulette\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Repos\Xamarin.Forms-Class-Projects\NetflixRoulette\NetflixRoulette\NetflixRoulette\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Repos\Xamarin.Forms-Class-Projects\NetflixRoulette\NetflixRoulette\NetflixRoulette\obj\Debug\netstandard2.0\MoviesPage.xaml.g.cs
+C:\Repos\Xamarin.Forms-Class-Projects\NetflixRoulette\NetflixRoulette\NetflixRoulette\obj\Debug\netstandard2.0\NetflixRoulette.AssemblyInfoInputs.cache
+C:\Repos\Xamarin.Forms-Class-Projects\NetflixRoulette\NetflixRoulette\NetflixRoulette\obj\Debug\netstandard2.0\NetflixRoulette.AssemblyInfo.cs
+C:\Repos\Xamarin.Forms-Class-Projects\NetflixRoulette\NetflixRoulette\NetflixRoulette\obj\Debug\netstandard2.0\MovieDetailsPage.xaml.g.cs
+C:\Repos\Xamarin.Forms-Class-Projects\NetflixRoulette\NetflixRoulette\NetflixRoulette\bin\Debug\netstandard2.0\ref\NetflixRoulette.dll
+C:\Repos\Xamarin.Forms-Class-Projects\NetflixRoulette\NetflixRoulette\NetflixRoulette\bin\Debug\netstandard2.0\NetflixRoulette.pdb
+C:\Repos\Xamarin.Forms-Class-Projects\NetflixRoulette\NetflixRoulette\NetflixRoulette\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Repos\Xamarin.Forms-Class-Projects\NetflixRoulette\NetflixRoulette\NetflixRoulette\obj\Debug\netstandard2.0\NetflixRoulette.dll
+C:\Repos\Xamarin.Forms-Class-Projects\NetflixRoulette\NetflixRoulette\NetflixRoulette\obj\Debug\netstandard2.0\ref\NetflixRoulette.dll
+C:\Repos\Xamarin.Forms-Class-Projects\NetflixRoulette\NetflixRoulette\NetflixRoulette\obj\Debug\netstandard2.0\NetflixRoulette.pdb

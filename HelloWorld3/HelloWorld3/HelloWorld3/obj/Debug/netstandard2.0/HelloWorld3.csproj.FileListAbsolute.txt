@@ -1,0 +1,15 @@
+C:\Repos\Xamarin.Forms-Class-Projects\HelloWorld3\HelloWorld3\HelloWorld3\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Repos\Xamarin.Forms-Class-Projects\HelloWorld3\HelloWorld3\HelloWorld3\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Repos\Xamarin.Forms-Class-Projects\HelloWorld3\HelloWorld3\HelloWorld3\obj\Debug\netstandard2.0\HelloWorld3.AssemblyInfoInputs.cache
+C:\Repos\Xamarin.Forms-Class-Projects\HelloWorld3\HelloWorld3\HelloWorld3\obj\Debug\netstandard2.0\HelloWorld3.AssemblyInfo.cs
+C:\Repos\Xamarin.Forms-Class-Projects\HelloWorld3\HelloWorld3\HelloWorld3\bin\Debug\netstandard2.0\HelloWorld3.deps.json
+C:\Repos\Xamarin.Forms-Class-Projects\HelloWorld3\HelloWorld3\HelloWorld3\bin\Debug\netstandard2.0\HelloWorld3.dll
+C:\Repos\Xamarin.Forms-Class-Projects\HelloWorld3\HelloWorld3\HelloWorld3\bin\Debug\netstandard2.0\ref\HelloWorld3.dll
+C:\Repos\Xamarin.Forms-Class-Projects\HelloWorld3\HelloWorld3\HelloWorld3\bin\Debug\netstandard2.0\HelloWorld3.pdb
+C:\Repos\Xamarin.Forms-Class-Projects\HelloWorld3\HelloWorld3\HelloWorld3\obj\Debug\netstandard2.0\HelloWorld3.dll
+C:\Repos\Xamarin.Forms-Class-Projects\HelloWorld3\HelloWorld3\HelloWorld3\obj\Debug\netstandard2.0\ref\HelloWorld3.dll
+C:\Repos\Xamarin.Forms-Class-Projects\HelloWorld3\HelloWorld3\HelloWorld3\obj\Debug\netstandard2.0\HelloWorld3.pdb
+C:\Repos\Xamarin.Forms-Class-Projects\HelloWorld3\HelloWorld3\HelloWorld3\obj\Debug\netstandard2.0\RecipePage.xaml.g.cs
+C:\Repos\Xamarin.Forms-Class-Projects\HelloWorld3\HelloWorld3\HelloWorld3\obj\Debug\netstandard2.0\PostPage.xaml.g.cs
+C:\Repos\Xamarin.Forms-Class-Projects\HelloWorld3\HelloWorld3\HelloWorld3\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Repos\Xamarin.Forms-Class-Projects\HelloWorld3\HelloWorld3\HelloWorld3\obj\Debug\netstandard2.0\HelloWorld3.csprojAssemblyReference.cache

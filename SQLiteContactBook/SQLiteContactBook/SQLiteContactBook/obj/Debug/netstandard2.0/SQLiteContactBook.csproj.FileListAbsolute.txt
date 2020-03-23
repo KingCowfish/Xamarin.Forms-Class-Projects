@@ -1,0 +1,15 @@
+C:\Repos\Xamarin.Forms-Class-Projects\SQLiteContactBook\SQLiteContactBook\SQLiteContactBook\bin\Debug\netstandard2.0\SQLiteContactBook.deps.json
+C:\Repos\Xamarin.Forms-Class-Projects\SQLiteContactBook\SQLiteContactBook\SQLiteContactBook\bin\Debug\netstandard2.0\SQLiteContactBook.dll
+C:\Repos\Xamarin.Forms-Class-Projects\SQLiteContactBook\SQLiteContactBook\SQLiteContactBook\obj\Debug\netstandard2.0\SQLiteContactBook.csprojAssemblyReference.cache
+C:\Repos\Xamarin.Forms-Class-Projects\SQLiteContactBook\SQLiteContactBook\SQLiteContactBook\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Repos\Xamarin.Forms-Class-Projects\SQLiteContactBook\SQLiteContactBook\SQLiteContactBook\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Repos\Xamarin.Forms-Class-Projects\SQLiteContactBook\SQLiteContactBook\SQLiteContactBook\obj\Debug\netstandard2.0\SQLiteContactBook.AssemblyInfoInputs.cache
+C:\Repos\Xamarin.Forms-Class-Projects\SQLiteContactBook\SQLiteContactBook\SQLiteContactBook\obj\Debug\netstandard2.0\SQLiteContactBook.AssemblyInfo.cs
+C:\Repos\Xamarin.Forms-Class-Projects\SQLiteContactBook\SQLiteContactBook\SQLiteContactBook\bin\Debug\netstandard2.0\ref\SQLiteContactBook.dll
+C:\Repos\Xamarin.Forms-Class-Projects\SQLiteContactBook\SQLiteContactBook\SQLiteContactBook\bin\Debug\netstandard2.0\SQLiteContactBook.pdb
+C:\Repos\Xamarin.Forms-Class-Projects\SQLiteContactBook\SQLiteContactBook\SQLiteContactBook\obj\Debug\netstandard2.0\ContactDetailPage.xaml.g.cs
+C:\Repos\Xamarin.Forms-Class-Projects\SQLiteContactBook\SQLiteContactBook\SQLiteContactBook\obj\Debug\netstandard2.0\ContactsPage.xaml.g.cs
+C:\Repos\Xamarin.Forms-Class-Projects\SQLiteContactBook\SQLiteContactBook\SQLiteContactBook\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Repos\Xamarin.Forms-Class-Projects\SQLiteContactBook\SQLiteContactBook\SQLiteContactBook\obj\Debug\netstandard2.0\SQLiteContactBook.dll
+C:\Repos\Xamarin.Forms-Class-Projects\SQLiteContactBook\SQLiteContactBook\SQLiteContactBook\obj\Debug\netstandard2.0\ref\SQLiteContactBook.dll
+C:\Repos\Xamarin.Forms-Class-Projects\SQLiteContactBook\SQLiteContactBook\SQLiteContactBook\obj\Debug\netstandard2.0\SQLiteContactBook.pdb
