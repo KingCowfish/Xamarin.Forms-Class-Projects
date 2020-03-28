@@ -1,0 +1,7 @@
+C:\Repos\Xamarin.Forms-Class-Projects\MVVMExercise\MVVMExercise\MVVMExercise\bin\Debug\netstandard2.0\MVVMExercise.deps.json
+C:\Repos\Xamarin.Forms-Class-Projects\MVVMExercise\MVVMExercise\MVVMExercise\bin\Debug\netstandard2.0\MVVMExercise.dll
+C:\Repos\Xamarin.Forms-Class-Projects\MVVMExercise\MVVMExercise\MVVMExercise\obj\Debug\netstandard2.0\MVVMExercise.csprojAssemblyReference.cache
+C:\Repos\Xamarin.Forms-Class-Projects\MVVMExercise\MVVMExercise\MVVMExercise\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Repos\Xamarin.Forms-Class-Projects\MVVMExercise\MVVMExercise\MVVMExercise\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Repos\Xamarin.Forms-Class-Projects\MVVMExercise\MVVMExercise\MVVMExercise\obj\Debug\netstandard2.0\MVVMExercise.AssemblyInfoInputs.cache
+C:\Repos\Xamarin.Forms-Class-Projects\MVVMExercise\MVVMExercise\MVVMExercise\obj\Debug\netstandard2.0\MVVMExercise.AssemblyInfo.cs

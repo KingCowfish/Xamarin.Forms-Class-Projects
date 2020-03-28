@@ -1,0 +1,15 @@
+C:\Repos\Xamarin.Forms-Class-Projects\MVVMClass\MVVMClass\MVVMClass\obj\Debug\netstandard2.0\MVVMClass.csprojAssemblyReference.cache
+C:\Repos\Xamarin.Forms-Class-Projects\MVVMClass\MVVMClass\MVVMClass\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Repos\Xamarin.Forms-Class-Projects\MVVMClass\MVVMClass\MVVMClass\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Repos\Xamarin.Forms-Class-Projects\MVVMClass\MVVMClass\MVVMClass\obj\Debug\netstandard2.0\Views\PlaylistDetailPage.xaml.g.cs
+C:\Repos\Xamarin.Forms-Class-Projects\MVVMClass\MVVMClass\MVVMClass\obj\Debug\netstandard2.0\Views\PlaylistsPage.xaml.g.cs
+C:\Repos\Xamarin.Forms-Class-Projects\MVVMClass\MVVMClass\MVVMClass\obj\Debug\netstandard2.0\MVVMClass.AssemblyInfoInputs.cache
+C:\Repos\Xamarin.Forms-Class-Projects\MVVMClass\MVVMClass\MVVMClass\obj\Debug\netstandard2.0\MVVMClass.AssemblyInfo.cs
+C:\Repos\Xamarin.Forms-Class-Projects\MVVMClass\MVVMClass\MVVMClass\bin\Debug\netstandard2.0\MVVMClass.deps.json
+C:\Repos\Xamarin.Forms-Class-Projects\MVVMClass\MVVMClass\MVVMClass\bin\Debug\netstandard2.0\MVVMClass.dll
+C:\Repos\Xamarin.Forms-Class-Projects\MVVMClass\MVVMClass\MVVMClass\bin\Debug\netstandard2.0\ref\MVVMClass.dll
+C:\Repos\Xamarin.Forms-Class-Projects\MVVMClass\MVVMClass\MVVMClass\bin\Debug\netstandard2.0\MVVMClass.pdb
+C:\Repos\Xamarin.Forms-Class-Projects\MVVMClass\MVVMClass\MVVMClass\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Repos\Xamarin.Forms-Class-Projects\MVVMClass\MVVMClass\MVVMClass\obj\Debug\netstandard2.0\MVVMClass.dll
+C:\Repos\Xamarin.Forms-Class-Projects\MVVMClass\MVVMClass\MVVMClass\obj\Debug\netstandard2.0\ref\MVVMClass.dll
+C:\Repos\Xamarin.Forms-Class-Projects\MVVMClass\MVVMClass\MVVMClass\obj\Debug\netstandard2.0\MVVMClass.pdb
