@@ -1,0 +1,13 @@
+C:\Repos\Xamarin.Forms-Class-Projects\StyleExercise\StyleExercise\StyleExercise\bin\Debug\netstandard2.0\StyleExercise.deps.json
+C:\Repos\Xamarin.Forms-Class-Projects\StyleExercise\StyleExercise\StyleExercise\bin\Debug\netstandard2.0\StyleExercise.dll
+C:\Repos\Xamarin.Forms-Class-Projects\StyleExercise\StyleExercise\StyleExercise\bin\Debug\netstandard2.0\ref\StyleExercise.dll
+C:\Repos\Xamarin.Forms-Class-Projects\StyleExercise\StyleExercise\StyleExercise\bin\Debug\netstandard2.0\StyleExercise.pdb
+C:\Repos\Xamarin.Forms-Class-Projects\StyleExercise\StyleExercise\StyleExercise\obj\Debug\netstandard2.0\StyleExercise.csprojAssemblyReference.cache
+C:\Repos\Xamarin.Forms-Class-Projects\StyleExercise\StyleExercise\StyleExercise\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Repos\Xamarin.Forms-Class-Projects\StyleExercise\StyleExercise\StyleExercise\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Repos\Xamarin.Forms-Class-Projects\StyleExercise\StyleExercise\StyleExercise\obj\Debug\netstandard2.0\StyleExercise.AssemblyInfoInputs.cache
+C:\Repos\Xamarin.Forms-Class-Projects\StyleExercise\StyleExercise\StyleExercise\obj\Debug\netstandard2.0\StyleExercise.AssemblyInfo.cs
+C:\Repos\Xamarin.Forms-Class-Projects\StyleExercise\StyleExercise\StyleExercise\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Repos\Xamarin.Forms-Class-Projects\StyleExercise\StyleExercise\StyleExercise\obj\Debug\netstandard2.0\StyleExercise.dll
+C:\Repos\Xamarin.Forms-Class-Projects\StyleExercise\StyleExercise\StyleExercise\obj\Debug\netstandard2.0\ref\StyleExercise.dll
+C:\Repos\Xamarin.Forms-Class-Projects\StyleExercise\StyleExercise\StyleExercise\obj\Debug\netstandard2.0\StyleExercise.pdb

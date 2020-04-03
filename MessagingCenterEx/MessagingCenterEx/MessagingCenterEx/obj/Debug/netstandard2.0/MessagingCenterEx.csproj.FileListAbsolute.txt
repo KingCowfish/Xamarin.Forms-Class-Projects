@@ -1,0 +1,7 @@
+C:\Repos\Xamarin.Forms-Class-Projects\MessagingCenterEx\MessagingCenterEx\MessagingCenterEx\bin\Debug\netstandard2.0\MessagingCenterEx.deps.json
+C:\Repos\Xamarin.Forms-Class-Projects\MessagingCenterEx\MessagingCenterEx\MessagingCenterEx\bin\Debug\netstandard2.0\MessagingCenterEx.dll
+C:\Repos\Xamarin.Forms-Class-Projects\MessagingCenterEx\MessagingCenterEx\MessagingCenterEx\obj\Debug\netstandard2.0\MessagingCenterEx.csprojAssemblyReference.cache
+C:\Repos\Xamarin.Forms-Class-Projects\MessagingCenterEx\MessagingCenterEx\MessagingCenterEx\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Repos\Xamarin.Forms-Class-Projects\MessagingCenterEx\MessagingCenterEx\MessagingCenterEx\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Repos\Xamarin.Forms-Class-Projects\MessagingCenterEx\MessagingCenterEx\MessagingCenterEx\obj\Debug\netstandard2.0\MessagingCenterEx.AssemblyInfoInputs.cache
+C:\Repos\Xamarin.Forms-Class-Projects\MessagingCenterEx\MessagingCenterEx\MessagingCenterEx\obj\Debug\netstandard2.0\MessagingCenterEx.AssemblyInfo.cs
